@@ -6,6 +6,7 @@ export default function PaginaTitulo() {
             <Titulo
                 principal="Dashboard"
                 secundario="Informações sobre a sua conta"
+                gradiente
             ></Titulo>
         </div>
     )
